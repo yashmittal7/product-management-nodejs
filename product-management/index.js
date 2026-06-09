@@ -7,7 +7,8 @@ let products = [
     { name: "tab", price: 7800 },
     { name: "mobile", price: 58000 },
     { name: "keyboard", price: 1500 },
-    { name: "television", price: 2000 }
+    { name: "television", price: 2000 },
+    { name: "monitor" , price: 10000 },
 ];
 
 // ==========================================
