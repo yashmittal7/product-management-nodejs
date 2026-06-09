@@ -8,7 +8,10 @@ A simple Node.js assignment demonstrating various JavaScript array operations on
 let products = [
     { name: "laptop", price: 78000 },
     { name: "tab", price: 7800 },
-    { name: "mobile", price: 58000 }
+    { name: "mobile", price: 58000 },
+    { name: "keyboard", price: 1500 },
+    { name: "television", price: 2000 },
+    { name: "monitor" , price: 10000 },
 ];
 ```
 
