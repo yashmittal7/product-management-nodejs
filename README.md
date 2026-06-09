@@ -36,7 +36,7 @@ let products = [
 17. Sort products by price descending
 18. Display products with 18% GST added
 19. Calculate total inventory value
-20. Create a product report showing name, price, and quality.
+20. Create a product report showing name, price, and quality
 
 ---
 
